@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Morning Map</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_text">ログイン</string>
+    <string name="logo">MORNING MAP</string>
+
+    <string name="log_text">MORNING MAP</string>
+    <string name="username_text">メールアドレス</string>
+    <string name="username">email</string>
+    <string name="password_text">パスワード</string>
+
+
+    <string name="signup_title_label">アカウントの作成</string>
+    <string name="signup_name_text">お名前</string>
+    <string name="signup_email_text">メールアドレス</string>
+    <string name="signup_username_text">ユーザー名</string>
+    <string name="signup_username_note">半角英字、数字、ピリオドを使用できます</string>
+    <string name="signup_password_text">パスワード</string>
+
+
+
+
+</resources>

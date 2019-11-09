@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293074306442",
+    "firebase_url": "https://morning-map.firebaseio.com",
+    "project_id": "morning-map",
+    "storage_bucket": "morning-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293074306442:android:ee41de4e9a1d8d9345f473",
+        "android_client_info": {
+          "package_name": "com.example.morningmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293074306442-cvajiin41r5s78f7olmtrn62695f2qfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7E8vBrJktB2owFEB2qoUrFzmn4ypg_oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293074306442-cvajiin41r5s78f7olmtrn62695f2qfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
